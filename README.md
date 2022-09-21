@@ -3,8 +3,10 @@
 ![](https://badgen.net/badge/Python/3.x/blue?icon=github)
 ![](https://badgen.net/badge/Scratch/3.x/yellow?icon=github)
 ![](https://badgen.net/badge/Java/1.8/red?icon=github)
-![](https://badgen.net/badge/.net/C#/pink?icon=github)
-![](https://badgen.net/badge/C/C++/:blue?icon=github)
+![](https://badgen.net/badge/.net/C#/blue?icon=github)
+![](https://badgen.net/badge/C/C++/green?icon=github)
+![](https://badgen.net/badge/前端/Go/gray?icon=github)
+![](https://badgen.net/badge/SQL/PHP/?icon=github)
 
 ## 背景
 
