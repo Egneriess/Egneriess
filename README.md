@@ -23,5 +23,5 @@
 在Github上，我在一周内获得了1Stars，虽少，只要坚持，就能更好。🎁✨
 
 ## 总结
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liyupian)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liyupian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liyupian&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liyupian&layout=compact&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
