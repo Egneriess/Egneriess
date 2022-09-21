@@ -20,4 +20,8 @@
 
 我熟练使用电脑，会Scratch、Python、Java、C、C++等语言，有一点点前端知识，在四年级上学期进入学校信息技术班，将在下册参加比赛。  
 
-在Github上，我在一周内获得了1Stars，虽少，只要坚持，就能更好。🎁
+在Github上，我在一周内获得了1Stars，虽少，只要坚持，就能更好。🎁✨
+
+## 总结
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liyupian)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liyupian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
