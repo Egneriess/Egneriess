@@ -1,29 +1,27 @@
 # 关于我: liyupian
 
-![](https://badgen.net/badge/Python/3.x/blue?icon=github)
-![](https://badgen.net/badge/Scratch/3.x/yellow?icon=github)
-![](https://badgen.net/badge/Java/1.8/red?icon=github)
-![](https://badgen.net/badge/.net/C#/blue?icon=github)
-![](https://badgen.net/badge/C/C++/green?icon=github)
-![](https://badgen.net/badge/前端/Go/gray?icon=github)
-![](https://badgen.net/badge/SQL/PHP/?icon=github)
+你好！\(@^0^@)/ 当你读到我的自我介绍时，我十分开心。(。・ω・。)    
 
-## 背景
+我是一名六年级小学生，很高兴认识你！o(*￣▽￣*)ブ    
 
-你好！读到这个README.md文件时，我感觉十分开心。(。・ω・。)    
+我于2022-06-26在[GitHub](https://www.github.com)上注册账号，在2022-09-24创建了第一个仓库: "[getMusic](https://www.github.com/liyupian/getMusic)"，使用Python编写。那真是一个美好的回忆。  
 
-我是一名六年级小学生，很高兴认识你！🎁  
+## 📚特长
 
-我于2022-06-26在GitHub上注册账号，在September, 14, 2022创建了第一个仓库: "getMusic"，使用Python编写。那真是一个美好的回忆。  
+![](https://img.shields.io/badge/Python-green)
+![](https://img.shields.io/badge/Java-red)
+![](https://img.shields.io/badge/C-purple)
+![](https://img.shields.io/badge/Dotnet-blue)
+![](https://img.shields.io/badge/Scratch-orange)
 
-在这里，我感谢@dingsw123 这位朋友，他给了我第一个star。
+我熟练使用电脑，Python、Java、C、C#等语言，有一点点前端知识，在四年级上学期进入学校信息技术班，将在下册参加比赛。  
 
-## 特长
+在Github上，我在第一周内获得了1Stars，虽少，只要坚持，就能更好。✨
 
-我熟练使用电脑，会Scratch、Python、Java、C、C++等语言，有一点点前端知识，在四年级上学期进入学校信息技术班，将在下册参加比赛。  
+在这里，我感谢[@dingsw123](https://www.github.com/dingsw123) 这位朋友，他送给了我第一个star。
 
-在Github上，我在一周内获得了1Stars，虽少，只要坚持，就能更好。🎁✨
-
-## 总结
-![](https://github-readme-stats.vercel.app/api?username=liyupian&locale=cn)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=liyupian&layout=compact&locale=cn)
+## 🎉年度总结
+<a href="https://github.com/liyupian">
+<img src="https://github-readme-stats.vercel.app/api?username=liyupian&locale=cn&show_icons=true" width="500" height="200">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liyupian&layout=compact&locale=cn" width="500" height="200">
+</a>
