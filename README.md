@@ -24,4 +24,5 @@
 <a href="https://github.com/liyupian">
 <img src="https://github-readme-stats.vercel.app/api?username=liyupian&locale=cn&show_icons=true" width="500" height="210">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liyupian&layout=compact&locale=cn" width="500" height="210">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=liyupian" width="100%" height="100%"/>
 </a>
