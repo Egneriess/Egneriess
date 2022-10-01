@@ -21,8 +21,7 @@
 在这里，我感谢[@dingsw123](https://www.github.com/dingsw123) 这位朋友，他送给了我第一个star。
 
 ## 🎉年度总结
-<a href="https://github.com/liyupian">
-![](https://github-readme-stats.vercel.app/api?username=liyupian&locale=cn&show_icons=true")
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=liyupian&layout=compact&locale=cn")
-![](https://github-readme-streak-stats.herokuapp.com/?user=liyupian"/)
-</a>
+
+[![](https://github-readme-stats.vercel.app/api?username=liyupian&locale=cn&show_icons=true)](https://www.github.com/liyupian)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=liyupian&layout=compact&locale=cn)](https://www.github.com/liyupian)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=liyupian)](https://www.github.com/liyupian)
