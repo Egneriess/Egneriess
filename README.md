@@ -22,7 +22,7 @@
 
 ## 🎉年度总结
 <a href="https://github.com/liyupian">
-<img src="https://github-readme-stats.vercel.app/api?username=liyupian&locale=cn&show_icons=true" width="500" height="150">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liyupian&layout=compact&locale=cn" width="500" height="150">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=liyupian" width="80%" height="80%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=liyupian&locale=cn&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liyupian&layout=compact&locale=cn">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=liyupian"/>
 </a>
